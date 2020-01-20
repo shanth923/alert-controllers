@@ -1,0 +1,28 @@
+PODS:
+  - IQDropDownTextField (1.1.1)
+  - IQKeyboardManagerSwift (6.0.4)
+  - TextFieldEffects (1.5.1)
+  - Toast-Swift (4.0.1)
+
+DEPENDENCIES:
+  - IQDropDownTextField (= 1.1.1)
+  - IQKeyboardManagerSwift (= 6.0.4)
+  - TextFieldEffects (= 1.5.1)
+  - Toast-Swift (~> 4.0.1)
+
+SPEC REPOS:
+  trunk:
+    - IQDropDownTextField
+    - IQKeyboardManagerSwift
+    - TextFieldEffects
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  IQDropDownTextField: 3d2e5728a2b83ff5dbb14cb9b497a80005124cbe
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+  TextFieldEffects: 7d372f58aeaf9acd9626bbf962680aef926b085d
+  Toast-Swift: e42a638589a2f95036b4bb7626cfbdde7daf0393
+
+PODFILE CHECKSUM: 90bd7d1f753e9772e5041d3958343f3f9cb5807f
+
+COCOAPODS: 1.8.3
